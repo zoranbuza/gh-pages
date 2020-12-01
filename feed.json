@@ -24,8 +24,8 @@
             "date_modified": "2020-12-01T20:26:08+01:00"
         },
         {
-            "id": "https://zoranbuza.github.io/gh-pages/uslugi-2/",
-            "url": "https://zoranbuza.github.io/gh-pages/uslugi-2/",
+            "id": "https://zoranbuza.github.io/gh-pages/uslugi/",
+            "url": "https://zoranbuza.github.io/gh-pages/uslugi/",
             "title": "Услуги",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
@@ -35,7 +35,7 @@
             "tags": [
             ],
             "date_published": "2020-10-27T10:44:48+01:00",
-            "date_modified": "2020-10-27T10:44:48+01:00"
+            "date_modified": "2020-12-01T21:51:35+01:00"
         },
         {
             "id": "https://zoranbuza.github.io/gh-pages/za-nas/",
@@ -53,8 +53,8 @@
             "date_modified": "2020-10-31T12:10:30+01:00"
         },
         {
-            "id": "https://zoranbuza.github.io/gh-pages/vesti-2/",
-            "url": "https://zoranbuza.github.io/gh-pages/vesti-2/",
+            "id": "https://zoranbuza.github.io/gh-pages/vesti/",
+            "url": "https://zoranbuza.github.io/gh-pages/vesti/",
             "title": "Вести",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
@@ -64,11 +64,11 @@
             "tags": [
             ],
             "date_published": "2020-10-27T10:43:48+01:00",
-            "date_modified": "2020-10-27T10:43:48+01:00"
+            "date_modified": "2020-12-01T21:51:53+01:00"
         },
         {
-            "id": "https://zoranbuza.github.io/gh-pages/karieri-2/",
-            "url": "https://zoranbuza.github.io/gh-pages/karieri-2/",
+            "id": "https://zoranbuza.github.io/gh-pages/karieri/",
+            "url": "https://zoranbuza.github.io/gh-pages/karieri/",
             "title": "Кариери",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
@@ -78,11 +78,11 @@
             "tags": [
             ],
             "date_published": "2020-10-27T10:43:22+01:00",
-            "date_modified": "2020-10-27T10:43:22+01:00"
+            "date_modified": "2020-12-01T21:52:05+01:00"
         },
         {
-            "id": "https://zoranbuza.github.io/gh-pages/kontakt-2/",
-            "url": "https://zoranbuza.github.io/gh-pages/kontakt-2/",
+            "id": "https://zoranbuza.github.io/gh-pages/kontakt/",
+            "url": "https://zoranbuza.github.io/gh-pages/kontakt/",
             "title": "Контакт",
             "summary": " ",
             "content_html": "\n  <p>\n    \n  </p>",
@@ -92,7 +92,7 @@
             "tags": [
             ],
             "date_published": "2020-10-27T10:42:53+01:00",
-            "date_modified": "2020-10-27T10:42:53+01:00"
+            "date_modified": "2020-12-01T21:52:15+01:00"
         },
         {
             "id": "https://zoranbuza.github.io/gh-pages/trgovsko-pravo/",
